@@ -72,6 +72,9 @@ button:active{
   .jokes{
       font-size: 2.5rem;
   }
+  .buttons{
+    justify-content: center;
+  }
 }
 
   
